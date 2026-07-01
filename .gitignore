@@ -1,0 +1,8 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime configs
+*.log
+.vscode/
+.idea/
